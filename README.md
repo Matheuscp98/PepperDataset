@@ -1,4 +1,4 @@
-# 🌶️ Pepper Dataset: Capsicum chinense and Capsicum frutescens
+# 🌶️ Pepper Dataset
 
 **DOI:**
 
