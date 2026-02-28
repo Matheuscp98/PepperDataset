@@ -8,7 +8,7 @@
 
 This repository contains **datasets** of pepper genotypes from the **Capsicum genus** (**C. chinense** and **C. frutescens**), obtained through controlled **greenhouse experiments** using a **Design of Experiments (DoE)** framework.
 
-The **data** include **85 observations** from **17 genotypes** (12 *Capsicum chinense* and 5 *Capsicum frutescens*), characterized using **20 morpho-agronomic descriptors**, comprising both **quantitative** and **qualitative variables** following standardized IPGRI guidelines.
+The **data** include **510 observations** from **17 genotypes** (12 *Capsicum chinense* and 5 *Capsicum frutescens*), characterized using **20 morpho-agronomic descriptors**, comprising both **quantitative** and **qualitative variables** following standardized IPGRI guidelines.
 
 These datasets support applications in:
 
