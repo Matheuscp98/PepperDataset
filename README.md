@@ -26,7 +26,6 @@ These datasets support applications in:
 
 - 🌱 Species: *Capsicum chinense* and *Capsicum frutescens*  
 - 🧬 Genotypes: 17  
-- 🔁 Replicates: 5 per genotype  
 - 📏 Variables: 20 morpho-agronomic descriptors  
   - 12 quantitative  
   - 8 qualitative  
@@ -51,7 +50,7 @@ This repository is associated with the following research work:
 
 1. **Clone or download** this repository to your **local machine**.  
 2. **Open** the dataset file:  
-   - Use [**Pepper Data (csv file)**](capsicum_full_data.csv) with tools such as **Python (pandas)**, **R**, or any software that supports CSV.  
+   - Use [**Pepper Data**](data.csv) with tools such as **Python (pandas)**, **R**, or any software that supports CSV.  
 3. **Analyze** the dataset applying your preferred **statistical** or **machine learning** methods (e.g., clustering, classification, multivariate analysis).  
 4. The dataset can be integrated into **Jupyter Notebooks**, **R scripts**, or other **data science pipelines** for reproducible experiments.  
 
@@ -62,7 +61,7 @@ This repository is associated with the following research work:
 | File Name | Description |
 |-----------|-------------|
 | [**README**](README.md) | This documentation file |
-| [**Pepper Data (csv file)**](capsicum_full_data.csv) | Main dataset in CSV format |
+| [**Pepper Data**](data.csv) | Main dataset in CSV format |
 | [**LICENSE**](LICENSE) | Dataset license information. |
 
 ---
