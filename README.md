@@ -1,6 +1,6 @@
 # 🌶️ Pepper Dataset
 
-**DOI:**
+**DOI:** [10.5281/zenodo.18816058](https://doi.org/10.5281/zenodo.18816058)
 
 ---
 
